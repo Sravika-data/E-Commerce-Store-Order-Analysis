@@ -3,7 +3,7 @@ The aim of this project is to gather the  insights of an e-commerce store orders
 patterns in the data.
 
 ### Tool
-Excel ![vecteezy_microsoft-excel-logo-icon-vector-free-download_19550671](https://user-images.githubusercontent.com/128244199/236635095-daf50f87-9e61-4211-85f0-3ad6fe684c7e.jpg)
+Excel 
 
 ### Steps
 
