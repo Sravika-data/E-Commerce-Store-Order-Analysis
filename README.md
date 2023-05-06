@@ -3,9 +3,10 @@ The aim of this project is to gather the  insights of an e-commerce store orders
 patterns in the data.
 
 ### Tool
-Excel
+Excel ![vecteezy_microsoft-excel-logo-icon-vector-free-download_19550671](https://user-images.githubusercontent.com/128244199/236635095-daf50f87-9e61-4211-85f0-3ad6fe684c7e.jpg)
 
 ### Steps
+
 - Cleaned the data.
 - Replaced values of column gender.
 - Removed duplicates entries from the data.
@@ -22,5 +23,4 @@ Excel
 
 ### Final conclusion to increase Vrinda store sales
 
-📍 Target # women customers of age group of (30-49 yrs) living in Maharashtra, Karnatka and Uttar Pradesh by showing ads/offers/coupons available on Amazon/Flipkart
-and Myantra.
+📍 Target **women customers of age group of (**30-49 yrs) living in **Maharashtra, **Karnatka and **Uttar Pradesh by showing ads/offers/coupons available on **Amazon, **Flipkart and **Myantra.
